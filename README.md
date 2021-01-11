@@ -36,7 +36,7 @@ module.exports = {
   plugins: [
     // 2. add the plugin
     {
-      resolve: "gatsby-plugin-affrim",
+      resolve: "gatsby-plugin-affirm-js",
       options: {
         // 3. pass in the API key in the options
         AFFIRM_API_KEY: `${process.env.AFFIRM_API_KEY}`,
