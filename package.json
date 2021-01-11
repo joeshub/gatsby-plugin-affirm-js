@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-affirm",
-  "author": "Joe Seifi <mojomail@gmail.com>",
+  "author": "Joe Seifi <mojomail+npm@gmail.com>",
   "version": "1.0.0",
   "description": "A plugin to add Affirm JS to Gatsby",
   "main": "index.js",
