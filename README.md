@@ -1,15 +1,15 @@
-# gatsby-plugin-affirm
+# gatsby-plugin-affirm-js
 
 A plugin for integrating [Affirm JS](https://docs.affirm.com/affirm-developers/docs) payment options with Gatsby.
 
 ## Installation
 
 ```sh
-npm install gatsby-plugin-affirm
+npm install gatsby-plugin-affirm-js
 
 # or
 
-yarn add gatsby-plugin-affirm
+yarn add gatsby-plugin-affirm-js
 ```
 
 ## Configuration and usage
